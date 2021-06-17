@@ -1,0 +1,16 @@
+C:\Users\senna\source\repos\Morse Code\bin\Release\net5.0\Morse Code.exe
+C:\Users\senna\source\repos\Morse Code\bin\Release\net5.0\Morse Code.deps.json
+C:\Users\senna\source\repos\Morse Code\bin\Release\net5.0\Morse Code.runtimeconfig.json
+C:\Users\senna\source\repos\Morse Code\bin\Release\net5.0\Morse Code.runtimeconfig.dev.json
+C:\Users\senna\source\repos\Morse Code\bin\Release\net5.0\Morse Code.dll
+C:\Users\senna\source\repos\Morse Code\bin\Release\net5.0\ref\Morse Code.dll
+C:\Users\senna\source\repos\Morse Code\bin\Release\net5.0\Morse Code.pdb
+C:\Users\senna\source\repos\Morse Code\obj\Release\net5.0\Morse Code.csproj.AssemblyReference.cache
+C:\Users\senna\source\repos\Morse Code\obj\Release\net5.0\Morse Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senna\source\repos\Morse Code\obj\Release\net5.0\Morse Code.AssemblyInfoInputs.cache
+C:\Users\senna\source\repos\Morse Code\obj\Release\net5.0\Morse Code.AssemblyInfo.cs
+C:\Users\senna\source\repos\Morse Code\obj\Release\net5.0\Morse Code.csproj.CoreCompileInputs.cache
+C:\Users\senna\source\repos\Morse Code\obj\Release\net5.0\Morse Code.dll
+C:\Users\senna\source\repos\Morse Code\obj\Release\net5.0\ref\Morse Code.dll
+C:\Users\senna\source\repos\Morse Code\obj\Release\net5.0\Morse Code.pdb
+C:\Users\senna\source\repos\Morse Code\obj\Release\net5.0\Morse Code.genruntimeconfig.cache
